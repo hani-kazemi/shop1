@@ -7,5 +7,5 @@ function App() {
       <MainRoutes/>
   )
 }
-
+  
 export default App;
